@@ -38,7 +38,7 @@ export const ProductCard = ({ item }) => {
           style={{ height: "100%", width: "40px" }}
           src="https://cdn2.iconfinder.com/data/icons/valentine-special/2048/869_-_Shopping_Bag-512.png"
         />
-        {leave ? (
+        {leave? (
           <p className="price"> $ {item.price}</p>
         ) : (
           <p className="add">ADD TO CART</p>

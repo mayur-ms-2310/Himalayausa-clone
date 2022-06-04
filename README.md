@@ -33,7 +33,7 @@ https://courageous-panda-a97c46.netlify.app/
 
 ## Tech Stack
 
-**Client:** React, Redux, HTML, CSS, Javascript.
+**Client:** React, Redux, HTML, CSS, Javascript, Material UI
 
 
 ## Run Locally

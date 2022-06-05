@@ -9,8 +9,8 @@ Himalayausa is a E-commerce Website Which offers a wide range of clinically-stud
 
 ## Authors
 
-- Mayur Shinde
-- Chaithanya Reddy
+- [Mayur Shinde](https://github.com/mayur-ms-2310)
+- [Chaithanya Reddy](https://github.com/chaitu786)
 - Himanshu Singh
 - Pankaj Kumar
 - Pawan Yadav

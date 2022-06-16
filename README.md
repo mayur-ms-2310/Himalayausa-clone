@@ -12,7 +12,7 @@ Himalayausa is a E-commerce Website Which offers a wide range of clinically-stud
 - [Mayur Shinde](https://github.com/mayur-ms-2310)
 - [Chaithanya Reddy](https://github.com/chaitu786)
 - Himanshu Singh
-- Pankaj Kumar
+- [Pankaj Kumar](https://github.com/Pankaj1947)
 - Pawan Yadav
 - Rahul Jain
 

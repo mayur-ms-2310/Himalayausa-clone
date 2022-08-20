@@ -1,7 +1,7 @@
 export let data = [
   {
     id: 1,
-    img: "https://cdn.shopify.com/s/files/1/0399/1728/9633/products/image-3_1024x.png?v=1591028195",
+    img: "https://cdn.shopify.com/s/files/1/0399/1728/9633/products/back-to-balance-cleanse-297598_1024x.png?v=1660858351",
     title: "Back to Balance Cleanse™",
     price: 29.95,
     category: "HerbalSupplements",
@@ -10,7 +10,7 @@ export let data = [
   },
   {
     id: 2,
-    img: "https://cdn.shopify.com/s/files/1/0399/1728/9633/products/HimalayaBambooToothpaste-Tube_Front_1024x.png?v=1613065864",
+    img: "https://cdn.shopify.com/s/files/1/0399/1728/9633/products/bamboo-sea-salt-whitening-antiplaque-toothpaste-363920_1024x.png?v=1660858353",
     title: "Bamboo & Sea Salt Whitening Antiplaque Toothpaste",
     price: 5.99,
     category: "OralCare",
@@ -19,7 +19,7 @@ export let data = [
   },
   {
     id: 3,
-    img: "https://cdn.shopify.com/s/files/1/0399/1728/9633/products/BEAUTY_bodybar_purifying-2_1024x.png?v=1595909766",
+    img: "https://cdn.shopify.com/s/files/1/0399/1728/9633/products/body-bar-purifying-neem-turmeric-342355_1024x.png?v=1660858341",
     title: "Body Bar: Purifying (Neem & Turmeric)",
     price: 4.99,
     category: "PersonalCare",
@@ -28,7 +28,7 @@ export let data = [
   },
   {
     id: 4,
-    img: "https://cdn.shopify.com/s/files/1/0399/1728/9633/products/BEAUTY_bodybar_refreshing-1_1024x.png?v=1595909931",
+    img: "https://cdn.shopify.com/s/files/1/0399/1728/9633/products/body-bar-refreshing-lavender-rosemary-879892_1024x.png?v=1660858358",
     title: "Body Bar: Refreshing (Lavender & Rosemary)",
     price: 4.99,
     category: "PersonalCare",
@@ -38,7 +38,7 @@ export let data = [
 
   {
     id: 5,
-    img: "https://cdn.shopify.com/s/files/1/0399/1728/9633/products/Boswellia-60---Box-Bottle_1024x.png?v=1595862802",
+    img: "https://cdn.shopify.com/s/files/1/0399/1728/9633/products/boswellia-829056_1024x.png?v=1660858338",
     title: "Boswellia",
     price: 14.95,
     category: "HealthInterests",
@@ -48,7 +48,7 @@ export let data = [
 
   {
     id: 6,
-    img: "https://cdn.shopify.com/s/files/1/0399/1728/9633/products/HimalayaCharcoalToothpaste-Tube_Front_1024x.png?v=1613059882",
+    img: "https://cdn.shopify.com/s/files/1/0399/1728/9633/products/charcoal-black-seed-oil-whitening-antiplaque-toothpaste-174005_1024x.png?v=1660858351",
     title: "Charcoal & Black Seed Oil Whitening Antiplaque Toothpaste",
     price: 5.99,
     category: "OralCare",
@@ -57,7 +57,7 @@ export let data = [
   },
   {
     id: 7,
-    img: "https://cdn.shopify.com/s/files/1/0399/1728/9633/products/BEAUTY_facewash_exoliatingwwa_bottlebox_1024x.png?v=1595909354",
+    img: "https://cdn.shopify.com/s/files/1/0399/1728/9633/products/face-scrub-exfoliating-walnut-wood-apple-119171_1024x.png?v=1660813418",
     title: "Face Scrub: Exfoliating (Walnut & Wood Apple)",
     price: 8.99,
     category: "PersonalCare",
@@ -67,7 +67,7 @@ export let data = [
 
   {
     id: 8,
-    img: "https://cdn.shopify.com/s/files/1/0399/1728/9633/products/image-33_1024x.png?v=1591027962",
+    img: "https://cdn.shopify.com/s/files/1/0399/1728/9633/products/comfortcleanse-636861_1024x.png?v=1660858348",
     title: "ComfortCleanse®",
     price: 20.95,
     category: "HealthInterests",
@@ -77,7 +77,7 @@ export let data = [
 
   {
     id: 9,
-    img: "https://cdn.shopify.com/s/files/1/0399/1728/9633/products/image-58_1024x.png?v=1591027935",
+    img: "https://cdn.shopify.com/s/files/1/0399/1728/9633/products/chyavanprash-105275_1024x.png?v=1660858328",
     title: "Chyavanprash",
     price: 13.95,
     category: "HealthInterests",
@@ -87,7 +87,7 @@ export let data = [
 
   {
     id: 10,
-    img: "https://cdn.shopify.com/s/files/1/0399/1728/9633/products/HUSAHELLOJOYBOX_BOTTLE_1024x.jpg?v=1608241956",
+    img: "https://cdn.shopify.com/s/files/1/0399/1728/9633/products/hello-joy-933428_1024x.jpg?v=1660858335",
     title: "Hello Joy®",
     price: 23.99,
     category: "HealthInterests",
@@ -97,7 +97,7 @@ export let data = [
 
   {
     id: 11,
-    img: "https://cdn.shopify.com/s/files/1/0399/1728/9633/products/Neem-and-Pom---Box-Tube_1024x.png?v=1597744049",
+    img: "https://cdn.shopify.com/s/files/1/0399/1728/9633/products/neem-pomegranate-original-toothpaste-399591_1024x.png?v=1660858351",
     title: "Neem & Pomegranate Original Toothpaste",
     price: 5.99,
     category: "OralCare",
@@ -106,7 +106,7 @@ export let data = [
   },
   {
     id: 12,
-    img: "https://cdn.shopify.com/s/files/1/0399/1728/9633/products/image-1_1024x.jpg?v=1591028200",
+    img: "https://cdn.shopify.com/s/files/1/0399/1728/9633/products/kids-toothpaste-bubble-gum-939127_1024x.jpg?v=1660858349",
     title: "Kids Toothpaste - Bubble Gum",
     price: 4.99,
     category: "OralCare",
@@ -115,7 +115,7 @@ export let data = [
   },
   {
     id: 13,
-    img: "https://cdn.shopify.com/s/files/1/0399/1728/9633/products/Whitening-Peppermint---Box-Tube_1024x.png?v=1605047704",
+    img: "https://cdn.shopify.com/s/files/1/0399/1728/9633/products/simply-peppermint-complete-care-toothpaste-417879_1024x.png?v=1660858326",
     title: "Simply Peppermint Whitening Toothpaste",
     price: 5.99,
     category: "OralCare",
@@ -124,7 +124,7 @@ export let data = [
   },
   {
     id: 14,
-    img: "https://cdn.shopify.com/s/files/1/0399/1728/9633/products/image-69_1024x.png?v=1590836866",
+    img: "https://cdn.shopify.com/s/files/1/0399/1728/9633/products/floravani-718088_1024x.png?v=1660813425",
     title: "FlorAvani®",
     price: 39.95,
     category: "HerbalSupplements",
@@ -133,7 +133,7 @@ export let data = [
   },
   {
     id: 15,
-    img: "https://cdn.shopify.com/s/files/1/0399/1728/9633/products/image-36_1024x.png?v=1590836878",
+    img: "https://cdn.shopify.com/s/files/1/0399/1728/9633/products/guggul-989338_1024x.png?v=1660858332",
     title: "Guggul",
     price: 15.95,
     category: "HerbalSupplements",
@@ -143,7 +143,7 @@ export let data = [
 
   {
     id: 16,
-    img: "https://cdn.shopify.com/s/files/1/0399/1728/9633/products/BEAUTY_facewash_hydrating_bottlebox_1024x.png?v=1595909481",
+    img: "https://cdn.shopify.com/s/files/1/0399/1728/9633/products/face-wash-hydrating-797207_1024x.png?v=1660858314",
     title: "Face Wash: Hydrating",
     price: 8.99,
     category: "PersonalCare",
@@ -152,7 +152,7 @@ export let data = [
   },
   {
     id: 17,
-    img: "https://cdn.shopify.com/s/files/1/0399/1728/9633/products/image-30_1024x.png?v=1590836814",
+    img: "https://cdn.shopify.com/s/files/1/0399/1728/9633/products/curcumin-complete-187497_1024x.png?v=1660858326",
     title: "Curcumin Complete™",
     price: 18.99,
     category: "HerbalSupplements",
@@ -161,7 +161,7 @@ export let data = [
   },
   {
     id: 18,
-    img: "https://cdn.shopify.com/s/files/1/0399/1728/9633/products/image-126_1024x.png?v=1591028001",
+    img: "https://cdn.shopify.com/s/files/1/0399/1728/9633/products/glucocare-445898_1024x.png?v=1660858325",
     title: "GlucoCare®",
     price: 24.95,
     category: "HerbalSupplements",
@@ -170,7 +170,7 @@ export let data = [
   },
   {
     id: 19,
-    img: "https://cdn.shopify.com/s/files/1/0399/1728/9633/products/InvigoratingFaceWash_1024x.png?v=1595909620",
+    img: "https://cdn.shopify.com/s/files/1/0399/1728/9633/products/face-wash-invigorating-397240_1024x.png?v=1660858334",
     title: "Face Wash: Invigorating",
     price: 8.99,
     category: "PersonalCare",
@@ -179,7 +179,7 @@ export let data = [
   },
   {
     id: 20,
-    img: "https://cdn.shopify.com/s/files/1/0399/1728/9633/products/image-2_1024x.jpg?v=1591028203",
+    img: "https://cdn.shopify.com/s/files/1/0399/1728/9633/products/kids-toothpaste-cool-mint-459294_1024x.jpg?v=1660858330",
     title: "Kids Toothpaste - Cool Mint",
     price: 4.99,
     category: "OralCare",

@@ -2,7 +2,7 @@ import React from 'react'
 import { Route,Routes } from 'react-router-dom'
 import Home from '../components/HOME_PAGE/Home/Home'
 import Navbar from '../components/HOME_PAGE/NAVBAR/Navbar'
-import Footer from '../components/Footer/Footer'
+import Footer from '../Footer/Footer'
 import { Category } from '../product components/Category';
 import { Cart } from '../product components/Cart';
 import { Address } from '../PaymentCard/Address'

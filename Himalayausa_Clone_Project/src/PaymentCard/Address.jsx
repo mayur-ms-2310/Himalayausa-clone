@@ -155,10 +155,6 @@ export const Address = () => {
                         </select>
                         <input placeholder="Zip code" />
                     </div>
-                    <div style={{ display: "flex", gap: 10 }}>
-                        <input placeholder="Expiration date(MM/YY)" />
-                        <input placeholder="Security code" />
-                    </div>
                 </Inputs>
                 <div style={{ ...Flex, ...Flex2 }}>
                     <Btn1 onClick={()=>

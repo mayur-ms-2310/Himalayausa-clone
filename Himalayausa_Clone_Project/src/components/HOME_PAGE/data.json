@@ -24,49 +24,49 @@
     [
         {
             "id":1,
-            "img":"https://cdn.shopify.com/s/files/1/0399/1728/9633/files/HUSA-Ashwagandha-90ct-Carton_Bottle-square_1024x.png?v=1607451904",
+            "img":"https://cdn.shopify.com/s/files/1/0399/1728/9633/products/organic-ashwagandha-119670_800x.png?v=1660858343",
             "title":"Organic Ashwagandha",
             "price":13.95
         },
         {
             "id":2,
-            "img":"https://cdn.shopify.com/s/files/1/0399/1728/9633/products/Whitening-Mint---Box-Tube_800x.png?v=1597743896",
+            "img":"https://cdn.shopify.com/s/files/1/0399/1728/9633/products/simply-mint-whitening-toothpaste-687185_800x.png?v=1660858335",
             "title":"Simply Mint Whitening Toothpaste",
             "price":5.99
         },
         {
             "id":3,
-            "img":"https://cdn.shopify.com/s/files/1/0399/1728/9633/products/Whitening-Mint---Box-Tube_800x.png?v=1597743896",
+            "img":"https://cdn.shopify.com/s/files/1/0399/1728/9633/products/livercare-524140_800x.png?v=1660858343",
             "title":"LiverCare®",
             "price":27.95
         },
         {
             "id":4,
-            "img":"https://cdn.shopify.com/s/files/1/0399/1728/9633/products/ImmunoCare-120---Box-Bottle_800x.png?v=1595814320",
+            "img":"https://cdn.shopify.com/s/files/1/0399/1728/9633/products/immunocare-629100_800x.png?v=1660813422",
             "title":"ImmunoCare®",
             "price":23.95
         },
         {
             "id":5,
-            "img":"https://cdn.shopify.com/s/files/1/0399/1728/9633/products/Neem-and-Pom---Box-Tube_800x.png?v=1597744049",
+            "img":"https://cdn.shopify.com/s/files/1/0399/1728/9633/products/neem-pomegranate-original-toothpaste-399591_800x.png?v=1660858351",
             "title":"Neem & Pomegranate Original Toothpaste",
             "price":5.99
         },
         {
             "id":6,
-            "img":"https://cdn.shopify.com/s/files/1/0399/1728/9633/products/image-23_800x.png?v=1590836890",
+            "img":"https://cdn.shopify.com/s/files/1/0399/1728/9633/products/organic-amla-944817_800x.png?v=1660858354",
             "title":"Organic Amla",
             "price":18.95
         },
         {
             "id":7,
-            "img":"https://cdn.shopify.com/s/files/1/0399/1728/9633/products/Bitter-Melon-30---Box-Bottle_800x.png?v=1595862276",
+            "img":"https://cdn.shopify.com/s/files/1/0399/1728/9633/products/organic-bitter-melon-139522_800x.png?v=1660858343",
             "title":"Organic Bitter Melon",
             "price":11.95
         },
         {
             "id":8,
-            "img":"https://cdn.shopify.com/s/files/1/0399/1728/9633/products/Gymnema_Box_Bottle_30s_800x.png?v=1591028093",
+            "img":"https://cdn.shopify.com/s/files/1/0399/1728/9633/products/organic-gymnema-953558_800x.png?v=1660813421",
             "title":"Organic Gymnema",
             "price":12.95
         }

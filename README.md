@@ -19,7 +19,7 @@ Himalayausa is a E-commerce Website Which offers a wide range of clinically-stud
 
 ## Demo
 
-https://courageous-panda-a97c46.netlify.app/
+https://himalayausa-clone-project.vercel.app/
 
 
 ## Features
